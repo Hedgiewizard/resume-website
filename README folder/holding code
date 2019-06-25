@@ -1,0 +1,5 @@
+ /*Option 2*/background: url('blueTriangles.jpg') no-repeat center center fixed;
+    /*Option 3*/background: url('blueWeb.jpg') no-repeat center center fixed;
+    /*Option 4*/background: url('marble.jpg') no-repeat center center fixed;
+    /*Option 5*/background: url('techTree.jpg') no-repeat center center fixed;
+    /*Option 6*/background: url('pinkMount.jpg') no-repeat center center fixed;
