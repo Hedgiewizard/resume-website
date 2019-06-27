@@ -1,0 +1,75 @@
+html{
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Raleway', sans-serif;
+  margin: 0px;
+  background-color: #171717;
+}
+.everything{
+    padding: 10px 90px 45px 10px;
+}
+education.html{
+    background-color: #474D5A;
+    padding-left: 15%;
+}
+.schooling{
+    padding-left: 5%;
+}
+p{
+    color: white;
+}
+.contact{
+    justify-content: left;
+    text-align: left;
+    padding-top: 10px;
+}
+.myName{
+    font-size: 67px;
+    padding-bottom: 17px;
+}
+.subTitle{
+    font-size: 20px;
+    text-decoration: none;
+}
+.subTitle :link{
+    color: white;
+    text-decoration: none;
+}
+.subTitle :hover{
+    color: #e5e5e5;
+}
+.subTitle :visited{
+    color: white;
+    text-decoration: none;
+}
+.subTitle :active{
+    color: #E8E8E8;
+}
+.subHead{
+    font-size: 38px;
+}
+.over{
+    padding-left: 21px;
+    /*padding-right: 2%;*/
+    font-size: 19px;
+}
+.detail{
+    padding-left: 71px;
+    /*padding-right: 5%;*/
+    font-size: 16px;
+}
+page-container > content-wrapper > detail{
+    padding-left: 71px;
+    /*padding-right: 5%;*/
+    font-size: 13px;
+}
+.muchDetail{
+    padding-left: 51px;
+    /*padding-right: 17%;*/
+    font-size: 13px;
+}
+h1{
+    font-size: 1.5em;
+}
