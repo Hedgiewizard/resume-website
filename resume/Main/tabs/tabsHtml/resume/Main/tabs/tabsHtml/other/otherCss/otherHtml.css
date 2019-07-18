@@ -1,0 +1,21 @@
+#this{
+	font-size: 3em;
+}
+.whatIDoing{
+	font-size: 2em;
+}
+.expo{
+	padding-left: 80px;
+}
+p{ 
+	padding-left: 50px;
+	padding-right: 70px;
+	padding-top: 20px;
+}
+.over p{
+	padding: 70px;
+}
+#startUp{
+	font-size: 3em;
+	padding: 10px;
+}
