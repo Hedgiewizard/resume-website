@@ -1,0 +1,16 @@
+.whatIDo a:link{
+	text-decoration: none;
+	color: white;
+}
+.whatIDo a:visited{
+	text-decoration: none;
+	color: white;
+}
+.whatIDo a:hover{
+	text-decoration: none;
+	color: #C6C5C5;
+}
+.whatIDo a:active{
+	text-decoration: none;
+	color: white;
+}
